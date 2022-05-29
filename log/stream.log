@@ -1,0 +1,146 @@
+Connection Opened ...
+--------------------------------------------------------------------------------------------------------------
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 01:41:00  29163.53  29163.53  29146.82  29146.82  12.26969  2022-05-30 01:41:59         376
+
+Buffer Updated....
+             Open_time      Open      High      Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:42:00  29146.83  29146.83  29146.0  29146.01  2.64547  2022-05-30 01:42:59         275
+
+Buffer Updated....
+             Open_time     Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:43:00  29146.0  29146.01  29143.92  29145.99  6.93478  2022-05-30 01:43:59         302
+
+Buffer Updated....
+             Open_time      Open     High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:44:00  29145.99  29146.0  29145.99  29145.99  2.36301  2022-05-30 01:44:59         228
+
+------------------------------------------------------------
+Buffer Cleared and Re-created....
+------------------------------------------------------------
+
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 01:45:00  29145.99  29163.53  29145.99  29154.31  13.48725  2022-05-30 01:45:59         460
+
+Buffer Updated....
+             Open_time     Open      High      Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:46:00  29154.3  29159.68  29154.3  29159.67  3.47612  2022-05-30 01:46:59         286
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:47:00  29159.68  29165.42  29148.94  29148.94  6.05985  2022-05-30 01:47:59         335
+
+Buffer Updated....
+             Open_time      Open      High      Low    Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:48:00  29148.95  29151.65  29140.7  29140.7  5.06614  2022-05-30 01:48:59         311
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:49:00  29140.71  29140.71  29130.41  29130.42  4.86038  2022-05-30 01:49:59         276
+
+------------------------------------------------------------
+Buffer Cleared and Re-created....
+------------------------------------------------------------
+
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:50:00  29130.41  29130.42  29130.41  29130.42  1.60885  2022-05-30 01:50:59         258
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 01:51:00  29130.41  29140.95  29130.41  29140.94  10.83197  2022-05-30 01:51:59         333
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:52:00  29140.95  29140.95  29132.02  29132.02  6.45042  2022-05-30 01:52:59         218
+
+Buffer Updated....
+             Open_time      Open     High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 01:53:00  29132.03  29147.6  29132.02  29147.59  10.47931  2022-05-30 01:53:59         385
+
+Buffer Updated....
+             Open_time     Open     High       Low    Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:54:00  29147.6  29147.6  29147.59  29147.6  3.87128  2022-05-30 01:54:59         275
+
+Buffer Updated....
+             Open_time     Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:55:00  29147.6  29147.66  29147.59  29147.65  1.99247  2022-05-30 01:55:59         197
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:56:00  29147.66  29149.97  29139.39  29143.78  6.55204  2022-05-30 01:56:59         335
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:57:00  29143.78  29155.13  29140.86  29155.12  6.19041  2022-05-30 01:57:59         318
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 01:58:00  29155.13  29168.14  29155.12  29157.94  7.30732  2022-05-30 01:58:59         413
+
+Buffer Updated....
+             Open_time      Open      High      Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 01:59:00  29157.94  29157.94  29152.9  29152.91  10.03749  2022-05-30 01:59:59         288
+
+Buffer Updated....
+             Open_time     Open      High      Low    Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:00:00  29152.9  29152.91  29152.9  29152.9  1.38254  2022-05-30 02:00:59         207
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:01:00  29152.91  29152.91  29152.26  29152.26  3.81158  2022-05-30 02:01:59         235
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:02:00  29152.27  29152.27  29150.45  29150.46  2.17319  2022-05-30 02:02:59         237
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:03:00  29150.45  29150.46  29114.72  29114.72  22.42826  2022-05-30 02:03:59         553
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:04:00  29114.73  29114.73  29091.67  29109.88  34.65849  2022-05-30 02:04:59         677
+
+------------------------------------------------------------
+Buffer Cleared and Re-created....
+------------------------------------------------------------
+
+             Open_time      Open      High      Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:05:00  29109.88  29109.89  29098.1  29108.62  14.63574  2022-05-30 02:05:59         322
+
+Buffer Updated....
+             Open_time      Open      High      Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:06:00  29108.62  29112.84  29100.8  29100.81  4.95279  2022-05-30 02:06:59         342
+
+Buffer Updated....
+             Open_time     Open      High      Low    Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:07:00  29100.8  29141.43  29100.8  29136.0  25.66277  2022-05-30 02:07:59         537
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:08:00  29135.99  29154.15  29115.84  29152.03  32.04926  2022-05-30 02:08:59         667
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:09:00  29152.04  29176.75  29152.03  29164.57  42.71705  2022-05-30 02:09:59         542
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:10:00  29164.57  29168.89  29163.09  29168.88  8.21926  2022-05-30 02:10:59         273
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close    Volume           Close_time  Num_trades
+0  2022-05-30 02:11:00  29168.88  29174.19  29166.81  29166.82  13.75671  2022-05-30 02:11:59         291
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:12:00  29166.82  29172.04  29166.81  29172.04  2.03108  2022-05-30 02:12:59         227
+
+Buffer Updated....
+             Open_time      Open      High       Low     Close   Volume           Close_time  Num_trades
+0  2022-05-30 02:13:00  29172.03  29176.53  29172.03  29176.53  5.47425  2022-05-30 02:13:59         286
+
+------------------------------------------------------------------------------------------------------------
+Connection Closed ...

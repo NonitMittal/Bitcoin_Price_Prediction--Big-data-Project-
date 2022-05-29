@@ -1,0 +1,8 @@
+.env
+
+# Ignored due to File Size
+data/BTCUSDT_1h.csv
+data/BTCUSDT_2h.csv
+
+models/Trained/RandomForest_Model.sav
+models/Notebooks/SVR_Modelling.ipynb
