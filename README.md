@@ -9,6 +9,7 @@ The aim of this project has been to experiment in the field of big data which we
 -   [Random Forest](https://www.javatpoint.com/machine-learning-random-forest-algorithm)
 -   [K-Nearest Neighbors](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
 -   [Classification and Regression Tree (CART)](https://www.analyticssteps.com/blogs/classification-and-regression-tree-cart-algorithm)
+-   [XGBoost](https://www.javatpoint.com/xgboost-ml-model-in-python#:~:text=XGBoost%20gives%20a%20covering%20class,it%20to%20our%20preparation%20datasets.)
 
 ## Project FLow
 
